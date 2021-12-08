@@ -1,1 +1,1 @@
-# [React (only) Website - 1](https://mowandugu.github.io/react-website1/)
+# [React Website - 1](https://mowandugu.github.io/react-website1/)
